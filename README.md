@@ -1,7 +1,7 @@
 # DenseBiasNet-pytorch
 The dense biased network implementated by pytorch has two versions:
 
-1. DenseBiasNet_a.py, DenseBiasNet_a.py, DenseBiasNet_state_a_deeper and DenseBiasNet_a_deeper.py are implementated via the dense biased connection in our MICCAI version.
+1. DenseBiasNet_a.py, DenseBiasNet_a_deeper.py, DenseBiasNet_state_a and DenseBiasNet_state_a_deeper.py are implementated via the dense biased connection in our MICCAI version.
 
 2. DenseBiasNet_state_b.py, DenseBiasNet_state_b_deeper.py and DenseBiasNet_b.py are implementated via the dense biased connection in our MedIA version.
 
