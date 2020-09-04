@@ -9,8 +9,8 @@ When 'state' in the file name, the bias quantity $m$ in the dense bias connectio
 
 If you use densebiasnet or some part of the code, please cite (see bibtex):
 * MICCAI version:
-**DPA-DenseBiasNet: Semi-supervised 3D Fine Renal Artery Segmentation with Dense Biased Network and Deep Priori Anatomy**  [https://doi.org/10.1007/978-3-030-32226-7_16](https://www.researchgate.net/publication/335866931_DPA-DenseBiasNet_Semi-supervised_3D_Fine_Renal_Artery_Segmentation_with_Dense_Biased_Network_and_Deep_Priori_Anatomy) 
+**DPA-DenseBiasNet: Semi-supervised 3D Fine Renal Artery Segmentation with Dense Biased Network and Deep Priori Anatomy**  [https://doi.org/10.1007/978-3-030-32226-7_16](https://doi.org/10.1007/978-3-030-32226-7_16) 
 
 * MedIA version:
 **Dense biased networks with deep priori anatomy and hard region adaptation: Semi-supervised learning for fine renal artery segmentation**
-[https://doi.org/10.1016/j.media.2020.101722](https://www.sciencedirect.com/science/article/pii/S1361841520300864)
+[https://doi.org/10.1016/j.media.2020.101722](https://doi.org/10.1016/j.media.2020.101722)
